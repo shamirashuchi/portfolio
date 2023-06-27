@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-
+firebase.config.js
 *.local
 
 # Editor directories and files
