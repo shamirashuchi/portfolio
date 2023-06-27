@@ -1,0 +1,47 @@
+[
+    {   "id":1,
+        "title":"CookPal",
+        "title1": "Chef recipe hunter site",
+        "img1":"https://i.ibb.co/0hQfPtP/project1img1.png",
+        "img2":"https://i.ibb.co/2KPdBtk/Project1img2.png",
+        "img3":"https://i.ibb.co/0s08kYH/Project2img3.png",
+        "img4":"https://i.ibb.co/t3HFzNf/project1img4.png",
+        "description": "We can know the recipes of chefs through this website.",
+        "fulldescription1":"If we click the view recipe button we can see details of the chef and his recipes.",
+        "fulldescription2":"If we go to the login page we can log in. We have an account and We can also log in with google, email, and password, gitHub. If there is no account then we click register If you do, it will take you to the register page and you can register.",
+        "livelink": "https://client-side-36388.web.app/register",
+        "githublink": "https://github.com/shamirashuchi/Cookpal-Client-Side",
+        "githubserverlink":"https://github.com/shamirashuchi/CookPal-Server-side"
+    },
+    {
+        "id":2,
+        "title":"Duplo Toy",
+        "title1":"Toy marketplace site",
+        "img1":"https://i.ibb.co/0YDTw40/project2img1.png",
+        "img2":"https://i.ibb.co/1Z6JbNs/Project2img2.png",
+        "img3":"https://i.ibb.co/s3TWCK0/project2img3.png",
+        "img4":"https://i.ibb.co/HhgBb8b/project2img4.png",
+        "description": "This website is based on educational and learning toys.",
+        "fulldescription1":" In the home page if we click on math toys we can see the math toys and if we click on language toy we can see language toys and if we click on engineering toys we can see the engineering toys.",
+        "fulldescription2":"If we click on view details button we can see the details of the toy. If we click on all toy we can see the toys all the users added. After login if we click on Details you can see the details of the toy. After login we can see add a toy, my toy . By clicking on add a toy page we can add a toy and in my toy we can see the toys we added",
+        "livelink": "https://toyworld-bf906.web.app/",
+        "githublink": "https://github.com/shamirashuchi/Duplo-toy-client",
+        "githubserverlink":"https://github.com/shamirashuchi/Duplo-toy-server" 
+    }
+    ,
+    {   "id":3,
+        "title":"ClickHaven",
+        "title1":"Summer camp learning school site",
+        "img1":"https://i.ibb.co/TKfPDjd/project3img1.png",
+        "img2":"https://i.ibb.co/zQ2MGMF/project3img2.png",
+        "img3":"https://i.ibb.co/QDxnPPv/project3img3.png",
+        "img4":"https://i.ibb.co/zXHrS3C/project3img4.png",
+        "description": "This website is based on summer camp photography leraning school.",
+        "fulldescription1":"Here student can enroll any class by payment. Admin can make any user instructor or admin and can see all the classes add by the instructor",
+        "fulldescription2":"Instructor can add a class and can see the the enrolled student.",
+        "livelink": "https://photograph-ad994.web.app/",
+        "githublink": "https://github.com/shamirashuchi/Photograph-client-side",
+        "githubserverlink":"https://github.com/shamirashuchi/Photograph-server-side" 
+    }
+
+]
