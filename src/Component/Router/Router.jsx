@@ -11,10 +11,13 @@ import Blog from "../Blog/Blog";
         element:<Home></Home>
     },
     {
-      path:'projects/:id',
+      path:'project',
       element:<ProjectsDetails></ProjectsDetails>,
-      //loader: ({ params }) => fetch(`project.json/${params.id}`)
-  },
+    },
+    {
+      path:'project/:id',
+      element:<ProjectsDetails></ProjectsDetails>,
+    },
   {
       path:'/blog',
       element:<Blog></Blog>

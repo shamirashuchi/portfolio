@@ -34,8 +34,9 @@ const Projects = () => {
                             <div className="flex gap-4">
                                 <a href={projects.livelink}><FaLaptop className='text-2xl'></FaLaptop></a>
                                 <a href={projects.githublink}><FaGithub className='text-2xl'></FaGithub></a>
-                                <Link to={`projects/${projects.id}`}><button className='btn btn-sm text-white btn-outline hover:bg-[#00df9a]'>Details</button></Link>
-                              
+                               
+                                 <Link to={`project/${projects.id}`}><button className='btn btn-sm text-white btn-outline hover:bg-[#00df9a]'>Details</button></Link>
+                                  
                             </div>
                         </div>
                     </section>
